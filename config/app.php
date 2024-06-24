@@ -4,6 +4,8 @@ use Illuminate\Support\Facades\Facade;
 use Illuminate\Support\ServiceProvider;
 
 return [
+    'Intervention\Image\ImageManager' => 'Image',
+
 
     /*
     |--------------------------------------------------------------------------

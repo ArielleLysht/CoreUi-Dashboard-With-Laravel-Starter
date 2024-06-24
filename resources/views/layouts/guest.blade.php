@@ -10,7 +10,6 @@
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet" />
 
     <!-- Scripts -->
-    @vite(['resources/sass/style.scss'])
 
     @yield('head')
 
@@ -23,7 +22,6 @@
 
 
 
-    @vite(['resources/js/app.js'])
 </body>
 
 </html>
